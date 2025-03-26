@@ -9,7 +9,7 @@ async function ProductReview({
 
   return (
     <div>
-      This is review no {reviewId} for the product no {productId}
+      This is review no {reviewId} for the product no {productId}. New
     </div>
   );
 }
